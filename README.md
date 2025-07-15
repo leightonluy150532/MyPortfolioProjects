@@ -16,5 +16,7 @@ Some skills I gained throughout my First Year:  C, C++, Python, Java, HTML, CSS,
 
 Here are my projects in my first year as an Information Technology student.
 
+1st Website (ITC Project):  https://leightonluy150532.github.io/ITCleluyProject.github.io/ 
+
 Thank you for visiting!
 
